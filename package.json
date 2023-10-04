@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "npm": "^9.7.1"
+  },
+  "dependencies": {
+    "node": "^8.10.0"
+  }
+}
